@@ -27,4 +27,8 @@ public class MainActivity extends AppCompatActivity {
         txtvi.setText(temp);
 
     }
+
+    public void ary(){
+
+    }
 }
